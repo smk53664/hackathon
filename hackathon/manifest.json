@@ -1,0 +1,8 @@
+{"name": "NAME",
+"description": "Customizable new tab",
+"version": "1.0",
+"manifest_version": 2,
+"background": {
+    "service"
+}
+}
